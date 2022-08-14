@@ -3,6 +3,7 @@
 
 
 /* Puxando arquivos css */
+@import url('style.css');
 @import url('responsivo.css');
 
 /* Variaveis */
