@@ -1,0 +1,22 @@
+/* Fonte */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+
+/* Puxando arquivos css */
+@import url('responsivo.css');
+
+/* Variaveis */
+
+:root {
+    --font-primaria: 'Poppins', sans-serif;
+    --cor-primaria: #023e8a;
+}
+
+.container {
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+body {
+    font-family: var(--font-primaria);
+}
