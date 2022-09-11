@@ -9,9 +9,9 @@
 
 :root {
     --font-primaria: 'Poppins', sans-serif;
-    --cor-primaria: #023e8a;
-    --cor-secundaria:#03045e;
-    --cor-auxiliar:#ffffff;
+    --cor-primaria: #f77a7d;
+    --cor-secundaria:#8b5450;
+    --cor-auxiliar:#fce4e2;
 }
 
 .container {
@@ -22,7 +22,7 @@
 body {
     font-family: var(--font-primaria);
     background-color:var(--cor-auxiliar);
-    background-image: linear-gradient(0deg, #ffffff 0%, #97D9E1 100%);
+    background-image: linear-gradient(0deg, #ffffff 0%, #55090225 100%);
     height: 100vh;
 }
 
